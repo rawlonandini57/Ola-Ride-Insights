@@ -1,4 +1,25 @@
-# 🚖 OLA Data Analysis | SQL & Power BI Dashboard  
+# 🚖 OLA Ride Insights
+
+**Domain:** Ride-Sharing & Mobility Analytics
+
+**Skills Takeaway:** SQL querying, data preprocessing, Power BI visualization, Streamlit app development, and business intelligence insights.
+
+## 📌 Problem Statement
+
+The rise of ride-sharing platforms has transformed urban mobility, offering convenience and affordability to millions of users. OLA, a leading ride-hailing service, generates vast amounts of data related to ride bookings, driver availability, fare calculations, and customer preferences. However, deriving actionable insights from this data remains a challenge.
+
+To enhance operational efficiency, improve customer satisfaction, and optimize business strategies, this project focuses on analyzing OLA’s ride-sharing data. By leveraging data analytics, visualization techniques, and interactive applications, the goal is to extract meaningful insights that can drive data-informed decisions.
+
+The project involves cleaning and processing raw ride data, performing exploratory data analysis (EDA), developing a dynamic Power BI dashboard, and creating a Streamlit-based web application to present key findings in an interactive and user-friendly manner.
+
+## 💼 Business Use Cases
+
+- **Peak Demand & Driver Allocation:** Identifying peak demand hours and optimizing driver allocation across locations.
+- **Customer Behavior:** Analyzing customer behavior to formulate personalized marketing and engagement strategies.
+- **Pricing Patterns:** Understanding pricing trends and evaluating the effectiveness of surge pricing.
+- **Anomaly Detection:** Detecting anomalies or fraudulent activities in the ride data.
+
+---
 
 📊 **End-to-End Data Analysis of Ola Rides using SQL, Power BI, and Excel**  
 
