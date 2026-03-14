@@ -1,20 +1,25 @@
 🚖 OLA Data Analysis | SQL & Power BI Dashboard
+
 📊 End-to-End Data Analysis of Ola Rides using SQL, Power BI, and Excel
 
 🚀 This project provides data-driven insights into ride trends, cancellations, revenue, and customer ratings using:
+
 ✅ SQL Queries – Data extraction & transformation
 ✅ Power BI Dashboard – Interactive visualizations
 ✅ Excel Processing – Data cleaning & structuring
 
 📌 Project Overview
+
 This project analyzes Ola ride data to uncover business insights. Key aspects covered:
+
 ✔ Ride trends & booking status breakdown
 ✔ Cancellations by customers & drivers
 ✔ Revenue distribution by payment method
 ✔ Top customers & vehicle types by ride distance
 ✔ Customer vs. Driver Ratings
 
-📌 Project Workflow:
+📌 Project Workflow
+
 Project Overview
 
 🛠️ Tools Used
