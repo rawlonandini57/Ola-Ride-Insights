@@ -5,7 +5,9 @@
 
 
 ✅ **SQL Queries** – Data extraction & transformation 
-✅ **Power BI Dashboard** – Interactive visualizations 
+
+✅ **Power BI Dashboard** – Interactive visualizations
+
 ✅ **Excel Processing** – Data cleaning & structuring 
 
 **Domain:** Ride-Sharing & Mobility Analytics
