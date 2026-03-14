@@ -26,36 +26,10 @@ The project involves cleaning and processing raw ride data, performing explorato
 - **Anomaly Detection:** Detecting anomalies or fraudulent activities in the ride data.
 ---
 
-## 🚀 Approach
-
-1. **Data Understanding & Exploration**
-   - Load and examine the dataset structure.
-   - Identify key variables like ride status, payment method, and ratings.
-   - Perform initial exploratory data analysis (EDA).
-2. **Data Cleaning & Preprocessing**
-   - Handle missing or inconsistent values.
-   - Convert data types and standardize formats.
-   - Create derived features for better insights.
-3. **SQL Query Development**
-   - Write queries to extract insights (e.g., ride trends, cancellations, ratings).
-   - Optimize queries for performance and accuracy.
-   - Validate results against the dataset.
-4. **Power BI Dashboard Creation**
-   - Design interactive visualizations for ride trends, revenue, and cancellations.
-   - Use filters and slicers for dynamic data exploration.
-   - Integrate KPIs and metrics for actionable business insights.
-5. **Streamlit Application Development**
-   - Create a user-friendly UI to display SQL query results.
-   - Implement interactive filters and search options.
-   - Embed Power BI visuals (or recreate them using Plotly/Streamlit components) into the app for a complete analytics experience.
-6. **Project Documentation & Deployment**
-   - Document insights, queries, and dashboard explanations.
-   - Ensure the Streamlit app is deployed and accessible.
-   - Present findings with business-oriented storytelling.
-
-
 ## 📌 Project Overview  
+
 This project analyzes **Ola ride data** to uncover business insights. Key aspects covered:  
+
 ✔ **Ride trends & booking status breakdown**  
 ✔ **Cancellations by customers & drivers**  
 ✔ **Revenue distribution by payment method**  
@@ -63,7 +37,6 @@ This project analyzes **Ola ride data** to uncover business insights. Key aspect
 ✔ **Customer vs. Driver Ratings**  
 
 📌 **Project Workflow:**  
-
 ![Project Overview](OLA_QUESTIONS.png)  
 
 ---
@@ -78,6 +51,7 @@ This project analyzes **Ola ride data** to uncover business insights. Key aspect
 ## 🔍 Data Insights & Analysis  
 
 ### 📌 SQL Analysis  
+
 ✔ Retrieve total successful bookings  
 ✔ Find the **average ride distance** per vehicle type  
 ✔ Identify the **top 5 customers** based on rides & booking value  
@@ -85,11 +59,13 @@ This project analyzes **Ola ride data** to uncover business insights. Key aspect
 ✔ Compute **customer & driver ratings distribution**  
 
 📌 **Check the SQL Query Results:**  
+
 📄 **[`SQL Analysis Answers`](./OLA_SQL-ANSWERS.png)**  
 
 ---
 
 ### 📊 Power BI Dashboard  
+
 Created an **interactive dashboard** to visualize ride data trends:  
 📈 **Ride Volume Over Time**  
 📊 **Booking Status Breakdown**  
@@ -98,6 +74,7 @@ Created an **interactive dashboard** to visualize ride data trends:
 ⭐ **Customer vs. Driver Ratings**  
 
 📌 **Power BI Dashboard Output:**  
+
 ![Power BI Dashboard](OLA_POWER_BI-ANSWERS.png)  
 📌 **Check the Power BI Dashboard Output:**  
 📄 **[`Power BI Dashboard Answers`](./OLA_POWER_BI-ANSWERS.png)**  
