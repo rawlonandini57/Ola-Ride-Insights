@@ -153,4 +153,10 @@ Open the Power BI dashboard or view the dashboard output image.
 
 Aspiring **Data Analyst | SQL | Power BI | Data Visualization**
 
-🔗 LinkedIn: https://www.linkedin.com/in/nandini-rawlo-34b2043a3/
+# 👨‍💻 Author
+
+**Your Name**
+
+Aspiring **Data Analyst | SQL | Power BI | Data Visualization**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]( https://www.linkedin.com/in/nandini-rawlo-34b2043a3/)
